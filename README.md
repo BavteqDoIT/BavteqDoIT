@@ -8,7 +8,7 @@ Since I began my studies at the University of Silesia in 2021, I have been activ
 
 * 🌍  I'm based in Silesia, Poland
 * ✉️  You can contact me at [bartek.adamek@onet.pl](mailto:bartek.adamek@onet.pl)
-* 🧠  I'm learning PHP (mainly Laravel) and Spring
+* 🧠  I'm learning PHP (mainly Laravel) and Java
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Currently I'm looking for my first job as PHP or Java Developer
 
