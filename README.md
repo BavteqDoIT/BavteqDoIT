@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Since I started studying at the University of Silesia, I have been involved with coding for two years now. Throughout my education, I have acquired skills in various programming languages and explored different areas of computer science. This learning experience has helped me better understand complex problems and develop problem-solving skills through coding.
+Since I started studying at the University of Silesia, I have been involved with since 2021. Throughout my education, I have acquired skills in various programming languages and explored different areas of computer science. This learning experience has helped me better understand complex problems and develop problem-solving skills through coding.
 
 * 🌍  I'm based in Silesia, Poland
 * ✉️  You can contact me at [bartek.adamek@onet.pl](mailto:bartek.adamek@onet.pl)
