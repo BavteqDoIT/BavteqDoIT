@@ -8,9 +8,9 @@ Since I began my studies at the University of Silesia in 2021, I have been activ
 
 * 🌍  I'm based in Silesia, Poland
 * ✉️  You can contact me at [bartek.adamek@onet.pl](mailto:bartek.adamek@onet.pl)
-* 🧠  I'm learning PHP (mainly Laravel) and Java
+* 🧠  I'm learning Java and Spring Boot
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Currently I'm looking for my first job as PHP or Java Developer
+* ⚡  Currently I'm looking for my first job as Java Developer
 
 <a href="https://www.github.com/BavteqDoIT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BavteqDoIT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
